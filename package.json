@@ -1,0 +1,25 @@
+{
+  "name": "yargsclimongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmccart3/yargsCLIMongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmccart3/yargsCLIMongoDB/issues"
+  },
+  "homepage": "https://github.com/mmccart3/yargsCLIMongoDB#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.2.2",
+    "yargs": "^17.3.0"
+  }
+}
